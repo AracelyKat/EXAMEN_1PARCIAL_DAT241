@@ -1,0 +1,6 @@
+C:\Users\AracelyKaty\source\repos\CalculadoraNotacion\ClassLibraryNotacion\bin\Debug\ClassLibraryNotacion.dll
+C:\Users\AracelyKaty\source\repos\CalculadoraNotacion\ClassLibraryNotacion\bin\Debug\ClassLibraryNotacion.pdb
+C:\Users\AracelyKaty\source\repos\CalculadoraNotacion\ClassLibraryNotacion\obj\Debug\ClassLibraryNotacion.csproj.AssemblyReference.cache
+C:\Users\AracelyKaty\source\repos\CalculadoraNotacion\ClassLibraryNotacion\obj\Debug\ClassLibraryNotacion.csproj.CoreCompileInputs.cache
+C:\Users\AracelyKaty\source\repos\CalculadoraNotacion\ClassLibraryNotacion\obj\Debug\ClassLibraryNotacion.dll
+C:\Users\AracelyKaty\source\repos\CalculadoraNotacion\ClassLibraryNotacion\obj\Debug\ClassLibraryNotacion.pdb
