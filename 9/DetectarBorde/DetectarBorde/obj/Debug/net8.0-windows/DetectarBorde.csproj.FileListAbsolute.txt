@@ -1,0 +1,17 @@
+C:\Users\AracelyKaty\Desktop\DetectarBorde\DetectarBorde\bin\Debug\net8.0-windows\DetectarBorde.exe
+C:\Users\AracelyKaty\Desktop\DetectarBorde\DetectarBorde\bin\Debug\net8.0-windows\DetectarBorde.deps.json
+C:\Users\AracelyKaty\Desktop\DetectarBorde\DetectarBorde\bin\Debug\net8.0-windows\DetectarBorde.runtimeconfig.json
+C:\Users\AracelyKaty\Desktop\DetectarBorde\DetectarBorde\bin\Debug\net8.0-windows\DetectarBorde.dll
+C:\Users\AracelyKaty\Desktop\DetectarBorde\DetectarBorde\bin\Debug\net8.0-windows\DetectarBorde.pdb
+C:\Users\AracelyKaty\Desktop\DetectarBorde\DetectarBorde\obj\Debug\net8.0-windows\DetectarBorde.Form1.resources
+C:\Users\AracelyKaty\Desktop\DetectarBorde\DetectarBorde\obj\Debug\net8.0-windows\DetectarBorde.Properties.Resources.resources
+C:\Users\AracelyKaty\Desktop\DetectarBorde\DetectarBorde\obj\Debug\net8.0-windows\DetectarBorde.csproj.GenerateResource.cache
+C:\Users\AracelyKaty\Desktop\DetectarBorde\DetectarBorde\obj\Debug\net8.0-windows\DetectarBorde.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AracelyKaty\Desktop\DetectarBorde\DetectarBorde\obj\Debug\net8.0-windows\DetectarBorde.AssemblyInfoInputs.cache
+C:\Users\AracelyKaty\Desktop\DetectarBorde\DetectarBorde\obj\Debug\net8.0-windows\DetectarBorde.AssemblyInfo.cs
+C:\Users\AracelyKaty\Desktop\DetectarBorde\DetectarBorde\obj\Debug\net8.0-windows\DetectarBorde.csproj.CoreCompileInputs.cache
+C:\Users\AracelyKaty\Desktop\DetectarBorde\DetectarBorde\obj\Debug\net8.0-windows\DetectarBorde.dll
+C:\Users\AracelyKaty\Desktop\DetectarBorde\DetectarBorde\obj\Debug\net8.0-windows\refint\DetectarBorde.dll
+C:\Users\AracelyKaty\Desktop\DetectarBorde\DetectarBorde\obj\Debug\net8.0-windows\DetectarBorde.pdb
+C:\Users\AracelyKaty\Desktop\DetectarBorde\DetectarBorde\obj\Debug\net8.0-windows\DetectarBorde.genruntimeconfig.cache
+C:\Users\AracelyKaty\Desktop\DetectarBorde\DetectarBorde\obj\Debug\net8.0-windows\ref\DetectarBorde.dll
